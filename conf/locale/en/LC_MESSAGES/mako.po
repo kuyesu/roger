@@ -1,0 +1,477 @@
+# edX translation file
+# Copyright (C) 2021 edX
+# This file is distributed under the GNU AFFERO GENERAL PUBLIC LICENSE.
+# EdX Team <info@edx.org>, 2021.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: 0.1a\n"
+"Report-Msgid-Bugs-To: openedx-translation@googlegroups.com\n"
+"POT-Creation-Date: 2021-08-30 09:48+0100\n"
+"PO-Revision-Date: 2021-08-30 08:49:01.835459\n"
+"Last-Translator: \n"
+"Language-Team: openedx-translation <openedx-translation@googlegroups.com>\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Generated-By: Babel 2.8.0\n"
+
+#: cms/templates/edx-translations.html:4
+#: lms/templates/certificates/valid.html:12
+msgid "About edX Certificates"
+msgstr ""
+
+#: cms/templates/force-translations.html:2
+#: lms/templates/header/navbar-not-authenticated.html:29
+#: lms/templates/header/navbar-not-authenticated.html:37
+msgid "Register"
+msgstr ""
+
+#: cms/templates/force-translations.html:4
+#: lms/templates/header/user_dropdown.html:50
+#: lms/templates/header/user_dropdown.html:67
+msgid "Exit"
+msgstr ""
+
+#: cms/templates/force-translations.html:13
+#: lms/templates/header/user_dropdown.html:33
+#: lms/templates/header/user_dropdown.html:62
+#: lms/templates/header/user_dropdown.html:100
+msgid "Resume your last course"
+msgstr ""
+
+#: cms/templates/force-translations.html:14
+#: lms/templates/header/user_dropdown.html:36
+#: lms/templates/header/user_dropdown.html:64
+#: lms/templates/header/user_dropdown.html:102
+msgid "Dashboard"
+msgstr ""
+
+#: cms/templates/force-translations.html:25
+#: lms/templates/courseware/course_about.html:238
+msgid "Course Number"
+msgstr ""
+
+#: cms/templates/widgets/footer.html:26
+#: lms/templates/static_templates/tos.html:5
+#: lms/templates/static_templates/tos.html:10
+msgid "Terms of Service"
+msgstr ""
+
+#: cms/templates/widgets/footer.html:31
+#: lms/templates/static_templates/privacy.html:7
+#: lms/templates/static_templates/privacy.html:12
+msgid "Privacy Policy"
+msgstr ""
+
+#: cms/templates/widgets/footer.html:91 lms/templates/footer.html:90
+msgid "All rights reserved"
+msgstr ""
+
+#: cms/templates/widgets/header.html:211 lms/templates/header/header.html:76
+msgid "Choose Language"
+msgstr ""
+
+#: cms/templates/widgets/header.html:227 cms/templates/widgets/header.html:243
+#: lms/templates/header/user_dropdown.html:37
+#: lms/templates/header/user_dropdown.html:65
+#: lms/templates/header/user_dropdown.html:104
+msgid "Account"
+msgstr ""
+
+#: cms/templates/widgets/header.html:231 cms/templates/widgets/header.html:247
+#: lms/templates/static_templates/help.html:7
+#: lms/templates/static_templates/help.html:12
+msgid "Help"
+msgstr ""
+
+#: lms/templates/footer.html:60
+msgid "Visit OpenEdx website"
+msgstr ""
+
+#. Translators: 'Open edX' is a registered trademark, please keep this
+#. untranslated. See http://open.edx.org for more information.
+#: lms/templates/index_overlay.html:9
+msgid "Platform NAU"
+msgstr ""
+
+#. Translators: 'Open edX' is a registered trademark, please keep this
+#. untranslated. See http://open.edx.org for more information.
+#: lms/templates/index_overlay.html:11
+msgid "All in Portuguese, Portugal in all languages."
+msgstr ""
+
+#: lms/templates/modal-update-terms-of-service.html:23
+msgid "Accept new terms of service"
+msgstr ""
+
+#: lms/templates/certificates/_accomplishment-banner.html:59
+msgid "Print or share your certificate:"
+msgstr ""
+
+#: lms/templates/certificates/_accomplishment-banner.html:66
+msgid "Click the link to see my certificate."
+msgstr ""
+
+#: lms/templates/certificates/_accomplishment-banner.html:69
+msgid "Post on Facebook"
+msgstr ""
+
+#: lms/templates/certificates/_accomplishment-banner.html:73
+#: lms/templates/certificates/_accomplishment-banner.html:75
+msgid "Share on Twitter"
+msgstr ""
+
+#: lms/templates/certificates/_accomplishment-banner.html:78
+msgid "Tweet this Accomplishment. Pop up window."
+msgstr ""
+
+#: lms/templates/certificates/_accomplishment-banner.html:83
+#: lms/templates/certificates/_accomplishment-banner.html:85
+msgid "Add to LinkedIn Profile"
+msgstr ""
+
+#: lms/templates/certificates/_accomplishment-banner.html:93
+msgid "Add to Mozilla Backpack"
+msgstr ""
+
+#: lms/templates/certificates/_accomplishment-banner.html:99
+msgid "Print Certificate"
+msgstr ""
+
+#: lms/templates/certificates/_accomplishment-header.html:9
+msgid "{platform_name} Home"
+msgstr ""
+
+#: lms/templates/certificates/_accomplishment-rendering.html:43
+msgid "Noted by"
+msgstr ""
+
+#: lms/templates/certificates/_accomplishment-rendering.html:67
+msgid "Supported by the following organizations"
+msgstr ""
+
+#: lms/templates/certificates/_accomplishment-rendering.html:94
+msgid "Awarded to:"
+msgstr ""
+
+#: lms/templates/certificates/_edx-accomplishment-print-help.html:10
+msgid ""
+"For tips and tricks on printing your certificate, view the {link_start}Web "
+"Certificates help documentation{link_end}."
+msgstr ""
+
+#: lms/templates/certificates/invalid.html:9
+msgid "Cannot Find Certificate"
+msgstr ""
+
+#: lms/templates/certificates/invalid.html:11
+msgid ""
+"We cannot find a certificate with this URL or ID number. If you are trying "
+"to validate a certificate, make sure that the URL or ID number is correct. "
+"If you are sure that the URL or ID number is correct, contact support."
+msgstr ""
+
+#: lms/templates/certificates/invalid.html:15
+msgid "About {platform_name} Certificates"
+msgstr ""
+
+#: lms/templates/certificates/server-error.html:5
+msgid "Invalid Certificate Configuration."
+msgstr ""
+
+#: lms/templates/certificates/server-error.html:9
+msgid "There is a problem with this certificate."
+msgstr ""
+
+#: lms/templates/certificates/server-error.html:14
+msgid ""
+"To resolve the problem, your partner manager should verify that the "
+"following information is correct."
+msgstr ""
+
+#: lms/templates/certificates/server-error.html:17
+msgid "The institution's logo."
+msgstr ""
+
+#: lms/templates/certificates/server-error.html:18
+msgid "The institution that is linked to the course."
+msgstr ""
+
+#: lms/templates/certificates/server-error.html:19
+msgid "The course information in the Course Administration tool."
+msgstr ""
+
+#: lms/templates/certificates/server-error.html:22
+msgid ""
+"If all of the information is correct and the problem persists, contact "
+"technical support."
+msgstr ""
+
+#: lms/templates/courseware/course_about.html:44
+#: lms/templates/courseware/course_about.html:82
+#: lms/templates/courseware/course_about.html:101
+msgid "An error occurred. Please try again later."
+msgstr ""
+
+#: lms/templates/courseware/course_about.html:66
+msgid ""
+"The currently logged-in user account does not have permission to enroll in "
+"this course. You may need to {start_logout_tag}log out{end_tag} then try the"
+" enroll button again. Please visit the {start_help_tag}help page{end_tag} "
+"for a possible solution."
+msgstr ""
+
+#: lms/templates/courseware/course_about.html:137
+msgid "You are enrolled in this course"
+msgstr ""
+
+#: lms/templates/courseware/course_about.html:140
+msgid "View Course"
+msgstr ""
+
+#: lms/templates/courseware/course_about.html:146
+msgid "This course is in your <a href=\"{cart_link}\">cart</a>."
+msgstr ""
+
+#: lms/templates/courseware/course_about.html:150
+msgid "Course is full"
+msgstr ""
+
+#: lms/templates/courseware/course_about.html:153
+msgid "Enrollment in this course is by invitation only"
+msgstr ""
+
+#: lms/templates/courseware/course_about.html:158
+msgid "Enrollment is Closed"
+msgstr ""
+
+#: lms/templates/courseware/course_about.html:173
+msgid "Add {course_name} to Cart <span>({price} {currency})</span>"
+msgstr ""
+
+#: lms/templates/courseware/course_about.html:189
+msgid "Enroll in {course_name}"
+msgstr ""
+
+#: lms/templates/courseware/course_about.html:221
+msgid "View About Page in studio"
+msgstr ""
+
+#: lms/templates/courseware/course_about.html:245
+msgid "Course Begins"
+msgstr ""
+
+#: lms/templates/courseware/course_about.html:265
+msgid "Course Ends"
+msgstr ""
+
+#: lms/templates/courseware/course_about.html:278
+msgid "Estimated Effort"
+msgstr ""
+
+#: lms/templates/courseware/course_about.html:286
+msgid "Price"
+msgstr ""
+
+#: lms/templates/courseware/course_about.html:295
+msgid "Prerequisites"
+msgstr ""
+
+#: lms/templates/courseware/course_about.html:299
+msgid ""
+"You must successfully complete {link_start}{prc_display}{link_end} before "
+"you begin this course."
+msgstr ""
+
+#: lms/templates/courseware/course_about.html:309
+msgid "Requirements"
+msgstr ""
+
+#: lms/templates/courseware/course_about.html:326
+msgid "Additional Resources"
+msgstr ""
+
+#: lms/templates/courseware/course_about.html:356
+msgctxt "self"
+msgid "Enroll"
+msgstr ""
+
+#: lms/templates/courseware/course_about.html:361
+msgctxt "self"
+msgid "enroll"
+msgstr ""
+
+#: lms/templates/courseware/courses.html:31
+msgid "Courses"
+msgstr ""
+
+#: lms/templates/courseware/courses.html:37
+msgid "Search Results"
+msgstr ""
+
+#: lms/templates/courseware/courses.html:45
+msgid "List of Courses"
+msgstr ""
+
+#: lms/templates/courseware/courses.html:60
+#: lms/templates/courseware/courses.html:61
+msgid "Search for a course"
+msgstr ""
+
+#: lms/templates/courseware/courses.html:62
+msgid "Search"
+msgstr ""
+
+#: lms/templates/courseware/courses.html:67
+msgid "Loading"
+msgstr ""
+
+#: lms/templates/courseware/courses.html:73
+msgid "Refine Your Search"
+msgstr ""
+
+#: lms/templates/header/header.html:46
+#: lms/templates/header/user_dropdown.html:98
+msgid "More Options"
+msgstr ""
+
+#: lms/templates/header/header.html:51
+msgid ""
+"{begin_strong}Warning:{end_strong} Your browser is not fully supported. We "
+"strongly recommend using {chrome_link} or {ff_link}."
+msgstr ""
+
+#: lms/templates/header/navbar-authenticated.html:34
+msgid "Shopping Cart"
+msgstr ""
+
+#: lms/templates/header/navbar-logo-header.html:80
+msgid "{platform_name} Home Page"
+msgstr ""
+
+#: lms/templates/header/navbar-logo-header.html:188
+msgid "Search courses..."
+msgstr ""
+
+#: lms/templates/header/navbar-logo-header.html:224
+#: lms/templates/header/user_dropdown.html:95
+msgid "Options Menu"
+msgstr ""
+
+#: lms/templates/header/navbar-not-authenticated.html:23
+#: lms/templates/header/user_dropdown.html:27
+msgid "Supplemental Links"
+msgstr ""
+
+#: lms/templates/header/navbar-not-authenticated.html:26
+#: lms/templates/header/navbar-not-authenticated.html:34
+msgid "Sign in"
+msgstr ""
+
+#: lms/templates/header/user_dropdown.html:38
+#: lms/templates/header/user_dropdown.html:66
+#: lms/templates/header/user_dropdown.html:103
+#: lms/templates/header/user_dropdown.html:105
+msgid "Profile"
+msgstr ""
+
+#. Translators: This is short for "System administration".
+#: lms/templates/header/user_dropdown.html:43
+#: lms/templates/header/user_dropdown.html:72
+#: lms/templates/header/user_dropdown.html:111
+msgid "Sysadmin"
+msgstr ""
+
+#: lms/templates/header/user_dropdown.html:80
+#: lms/templates/header/user_dropdown.html:106
+msgid "Sign Out"
+msgstr ""
+
+#: lms/templates/header/user_dropdown.html:89
+msgid "Dashboard for:"
+msgstr ""
+
+#: lms/templates/static_templates/about.html:5
+#: lms/templates/static_templates/about.html:10
+msgid "About"
+msgstr ""
+
+#: lms/templates/static_templates/about.html:13
+msgid ""
+"NAU - Always Learning is a technical infrastructure which publishes  and "
+"provides support to Massive Open courses aimed at public administration and "
+"Higher Education."
+msgstr ""
+
+#: lms/templates/static_templates/about.html:16
+msgid ""
+"This platform was created within the scope of NAU Project launched in "
+"October 1st 2017 with the following partners:"
+msgstr ""
+
+#: lms/templates/static_templates/about.html:27
+msgid "NAU Project"
+msgstr ""
+
+#: lms/templates/static_templates/about.html:29
+msgid ""
+"A national iniciative, led by the Foundation for Science and Technology, to "
+"build and operate a technical infrastructure which supports and operates a "
+"platform that publishes content to big audiences, such as MOOC courses. This"
+" initiative, cross-sectional to several ministries and open to society, will"
+" facilitate training to a larger number of civil servants and citizens."
+msgstr ""
+
+#: lms/templates/static_templates/about.html:31
+msgid "Explore the NAU Project at: "
+msgstr ""
+
+#: lms/templates/static_templates/contact.html:7
+#: lms/templates/static_templates/contact.html:12
+msgid "Contact"
+msgstr ""
+
+#: lms/templates/static_templates/contact.html:14
+#: lms/templates/static_templates/help.html:14
+msgid ""
+"The NAU team is always available to help you. Search through our "
+"{link_start} knoledge base{link_end} or contact us through:"
+msgstr ""
+
+#: lms/templates/static_templates/contact.html:16
+#: lms/templates/static_templates/help.html:16
+msgid "E-mail"
+msgstr ""
+
+#: lms/templates/static_templates/contact.html:17
+#: lms/templates/static_templates/help.html:17
+msgid "Telephone"
+msgstr ""
+
+#: lms/templates/static_templates/faq.html:5
+#: lms/templates/static_templates/faq.html:10
+msgid "FAQ"
+msgstr ""
+
+#: lms/templates/static_templates/honor.html:6
+#: lms/templates/static_templates/honor.html:11
+msgid "Honor Code"
+msgstr ""
+
+#: lms/templates/widgets/cookie-consent.html:24
+msgid ""
+"This website uses cookies to ensure you get the best experience on our "
+"website. If you continue browsing this site, we understand that you accept "
+"the use of cookies."
+msgstr ""
+
+#: lms/templates/widgets/cookie-consent.html:25
+msgid "Got it!"
+msgstr ""
+
+#: lms/templates/widgets/cookie-consent.html:26
+msgid "Learn more"
+msgstr ""
